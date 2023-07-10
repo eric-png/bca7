@@ -1,0 +1,19 @@
+.
+
+/* style.css */
+/* This stylesheet is used to style the elements of the website for Bear the Cat */
+
+body {
+  font-family: sans-serif; /* Sets the font to a sans-serif font */
+  background-color: #f2f2f2; /* Sets the background color to a light gray */
+}
+
+h1 {
+  font-size: 2em; /* Sets the font size of the h1 element to twice the size of the default font size */
+  color: #0099cc; /* Sets the color of the h1 element to a light blue */
+}
+
+img {
+  width: 300px; /* Sets the width of the image to 300px */
+  border-radius: 10px; /* Adds a 10px border radius to the image */
+}
